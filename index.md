@@ -12,3 +12,6 @@ int s=0;
 s=x+y;
 cout<<"suma celor doua numere este: "<<s;
 ```
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
